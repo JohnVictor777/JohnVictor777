@@ -1,4 +1,4 @@
-E ai, tudo bem?! Me chamo John Victor. E seja Bem vindo(a) ao meu mundo de códigos :)
+E ai, tudo bem?! Me chamo John Victor. E seja Bem-vindo(a) ao meu mundo de códigos :)
 
 📍Sou de Valença - BA e tenho 22 anos
 
