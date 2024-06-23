@@ -1,38 +1,75 @@
-Hey there! How are you? My name is John Victor.
+### Hello! I'm John Victor
 
-📍 I am from Valença - BA and I am 22 years old.
+📍 **Location:** Valença - BA  
+🎓 **Education:** Software Engineering student at Unopar  
+📚 **Additional Education:** Administrative Assistant course at SENAC  
+💼 **Age:** 23 years  
 
-🚀 I am currently transitioning my career and studying Software Engineering at Unopar. Passionate about technology, I am constantly seeking new knowledge to advance and stand out in the job market.
+---
 
-👩‍💻 Currently, I am focused on software development and have expertise in C#. I have a solid foundation in programming logic, HTML, CSS, and Git/GitHub.
+### About Me
 
-My experience includes development with various tools and frameworks within the C# ecosystem. Additionally, I have knowledge in .NET, JavaScript, and NodeJS.
+I'm passionate about technology and constantly seeking new knowledge to stand out in the job market.
 
-C# and .NET frameworks I use: ASP.NET Core, Blazor, Windows Forms, WPF (Windows Presentation Foundation), Entity Framework Core, Dapper.
+---
 
-I also have some knowledge of relational and non-relational databases, including the basics of creating and managing databases and writing simple queries in SQL and NoSQL. I have some experience with SQL Server, MySQL, and MongoDB.
+### Technical Skills
 
-I am available for internship opportunities or junior developer positions. I am enthusiastic about applying my knowledge and skills in C# in a professional environment, contributing to team success and the development of innovative projects.
+- **Languages:** C#, JavaScript
+- **C# and .NET Frameworks:** ASP.NET Core, Blazor, Windows Forms, WPF, Entity Framework Core, Dapper
+- **Front-end:** HTML, CSS, Bootstrap, Angular
+- **Databases:** MySQL, SQL Server
+- **Tools:** Git/GitHub, Visual Studio, Visual Studio Code
+- **Modeling:** UML (Unified Modeling Language)
 
-Let's build something amazing together!
+---
+
+### Experience
+
+I have experience in software development using various tools and frameworks in the C# and .NET ecosystem, including Angular for front-end development. I also have basic knowledge of both relational and non-relational databases, including database creation, management, and writing simple SQL and NoSQL queries.
+
+---
+
+### Opportunities
+
+I am available for internship opportunities or positions as a junior developer. I am prepared to apply my skills and knowledge in C#, .NET, MySQL, and Angular in a professional environment, contributing to team success and the development of innovative projects.
 __________________________________________________________________________________________________________________________________________________________________________
 
-E ai! Tudo bem? Meu nome é John Victor.
+### Olá! Sou John Victor
 
-📍Sou de Valença - BA e tenho 22 anos. 
+📍 **Localização:** Valença - BA  
+🎓 **Educação:** Estudante de Engenharia de Software pela Unopar  
+📚 **Educação Adicional:** Curso de Auxiliar Administrativo pelo SENAC  
+💼 **Idade:** 23 anos  
 
-🚀Estou em transição de carreira e cursando Engenharia de Software pela Unopar. Apaixonado por tecnologia, estou constantemente em busca de novos conhecimentos para avançar e me destacar no mercado de trabalho.
+---
 
-👩‍💻Atualmente, estou focado no desenvolvimento de software e tenho expertise em C#. Possuo uma base sólida em lógica de programação, HTML, CSS e Git/GitHub.
+### Sobre Mim
 
-Minha experiência inclui desenvolvimento com diversas ferramentas e frameworks do ecossistema C#. Além disso, tenho conhecimentos em .NET, JavaScript e NodeJS.
+Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para me destacar no mercado de trabalho.
 
-Frameworks C# e .NET que utilizo: ASP.NET Core, Blazor, Windows Forms, WPF (Windows Presentation Foundation), Entity Framework Core, Dapper.
+---
 
-Tenho também pouco conhecimento em bancos de dados relacionais e não-relacionais, incluindo o básico de criação e gerenciamento de bases de dados e escrita de consultas simples em SQL e NoSQL. Tenho alguma experiência com SQL Server, MySQL e MongoDB.
+### Habilidades Técnicas
 
-Estou disponível para oportunidades de estágio ou vagas como desenvolvedor júnior. Estou entusiasmado em aplicar meus conhecimentos e habilidades em C# em um ambiente profissional, contribuindo para o sucesso da equipe e o desenvolvimento de projetos inovadores.
+- **Linguagens:** C#, JavaScript
+- **Frameworks C# e .NET:** ASP.NET Core, Blazor, Windows Forms, WPF, Entity Framework Core, Dapper
+- **Front-end:** HTML, CSS, Bootstrap, Angular
+- **Bancos de Dados:** MySQL, SQL Server
+- **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code
+- **Modelagem:** UML (Unified Modeling Language)
 
-Vamos construir algo incrível juntos!
+---
+
+### Experiência
+
+Possuo experiência no desenvolvimento de software com diversas ferramentas e frameworks do ecossistema C# e .NET, incluindo Angular para desenvolvimento front-end. Também tenho conhecimentos básicos em bancos de dados relacionais e não-relacionais, incluindo a criação e gerenciamento de bases de dados e a escrita de consultas simples em SQL e NoSQL.
+
+---
+
+### Oportunidades
+
+Estou disponível para oportunidades de estágio ou vagas como desenvolvedor júnior ou estágio. Estou pronto para aplicar meus conhecimentos e habilidades em C#, .NET, MySQL e Angular em um ambiente profissional, contribuindo para o sucesso da equipe e o desenvolvimento de projetos inovadores.
+
 
 
