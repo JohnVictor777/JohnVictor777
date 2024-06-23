@@ -1,17 +1,17 @@
 ### Hello! I'm John Victor
 
 📍 **Location:** Valença - BA  
-🎓 **Education:** Software Engineering student at Unopar  
+🎓 **Education:** Software Engineering student at North University of Paraná(Unopar)  
 📚 **Additional Education:** Administrative Assistant course at SENAC  
 💼 **Age:** 23 years  
 
----
+
 
 ### About Me
 
 I'm passionate about technology and constantly seeking new knowledge to stand out in the job market.
 
----
+
 
 ### Technical Skills
 
@@ -22,33 +22,34 @@ I'm passionate about technology and constantly seeking new knowledge to stand ou
 - **Tools:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modeling:** UML (Unified Modeling Language)
 
----
+
 
 ### Experience
 
 I have experience in software development using various tools and frameworks in the C# and .NET ecosystem, including Angular for front-end development. I also have basic knowledge of both relational and non-relational databases, including database creation, management, and writing simple SQL and NoSQL queries.
 
----
+
 
 ### Opportunities
 
 I am available for internship opportunities or positions as a junior developer. I am prepared to apply my skills and knowledge in C#, .NET, MySQL, and Angular in a professional environment, contributing to team success and the development of innovative projects.
-__________________________________________________________________________________________________________________________________________________________________________
+
+---
 
 ### Olá! Sou John Victor
 
 📍 **Localização:** Valença - BA  
-🎓 **Educação:** Estudante de Engenharia de Software pela Unopar  
+🎓 **Educação:** Estudante de Engenharia de Software pela Universidade Norte do Paraná(Unopar)  
 📚 **Educação Adicional:** Curso de Auxiliar Administrativo pelo SENAC  
 💼 **Idade:** 23 anos  
 
----
+
 
 ### Sobre Mim
 
 Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para me destacar no mercado de trabalho.
 
----
+
 
 ### Habilidades Técnicas
 
@@ -59,13 +60,13 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos par
 - **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modelagem:** UML (Unified Modeling Language)
 
----
+
 
 ### Experiência
 
 Possuo experiência no desenvolvimento de software com diversas ferramentas e frameworks do ecossistema C# e .NET, incluindo Angular para desenvolvimento front-end. Também tenho conhecimentos básicos em bancos de dados relacionais e não-relacionais, incluindo a criação e gerenciamento de bases de dados e a escrita de consultas simples em SQL e NoSQL.
 
----
+
 
 ### Oportunidades
 
