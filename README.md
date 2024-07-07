@@ -16,7 +16,7 @@ I'm passionate about technology and constantly seeking new knowledge to stand ou
 ### Technical Skills
 
 - **Languages:** C#, JavaScript
-- **C# and .NET Frameworks:** ASP.NET Core, Blazor, Windows Forms, WPF, Entity Framework Core, Dapper
+- **C# and .NET Frameworks:** ASP.NET Core, Windows Forms, Entity Framework Core
 - **Front-end:** HTML, CSS, Bootstrap, Angular
 - **Databases:** MySQL, SQL Server
 - **Tools:** Git/GitHub, Visual Studio, Visual Studio Code
