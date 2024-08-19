@@ -17,7 +17,7 @@ I'm passionate about technology and constantly seeking new knowledge to stand ou
 
 - **Languages:** C#, JavaScript
 - **C# and .NET Frameworks:** ASP.NET Core, Windows Forms, Entity Framework Core
-- **Front-end:** HTML, CSS, Bootstrap, Angular
+- **Front-end:** HTML, CSS, Bootstrap, Vue
 - **Databases:** MySQL, SQL Server
 - **Tools:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modeling:** UML (Unified Modeling Language)
