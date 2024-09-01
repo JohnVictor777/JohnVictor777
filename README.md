@@ -23,18 +23,9 @@ I'm passionate about technology and constantly seeking new knowledge to stand ou
 - **Modeling:** UML (Unified Modeling Language)
 
 
+I am a Software Engineering student with experience in SQL Server, MySQL, and programming in C#, .NET, and JavaScript. I have knowledge of web technologies, developing efficient and scalable solutions. I am seeking a Software Engineering internship opportunity to apply and enhance my skills in a professional environment.
 
-### Experience
-
-I have experience in software development using various tools and frameworks in the C# and .NET ecosystem, including Angular for front-end development. I also have basic knowledge of both relational and non-relational databases, including database creation, management, and writing simple SQL and NoSQL queries.
-
-
-
-### Opportunities
-
-I am available for internship opportunities or positions as a junior developer. I am prepared to apply my skills and knowledge in C#, .NET, MySQL, and Angular in a professional environment, contributing to team success and the development of innovative projects.
-
----
+#___________________________________________________________________________________________________________________________________________________________________________________#
 
 ### Olá! Sou John Victor
 
@@ -55,22 +46,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos par
 
 - **Linguagens:** C#, JavaScript
 - **Frameworks C# e .NET:** ASP.NET Core, Blazor, Windows Forms, WPF, Entity Framework Core, Dapper
-- **Front-end:** HTML, CSS, Bootstrap, Angular
+- **Front-end:** HTML, CSS, Bootstrap, Vue
 - **Bancos de Dados:** MySQL, SQL Server
 - **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modelagem:** UML (Unified Modeling Language)
 
 
 
-### Experiência
-
-Possuo experiência no desenvolvimento de software com diversas ferramentas e frameworks do ecossistema C# e .NET, incluindo Angular para desenvolvimento front-end. Também tenho conhecimentos básicos em bancos de dados relacionais e não-relacionais, incluindo a criação e gerenciamento de bases de dados e a escrita de consultas simples em SQL e NoSQL.
-
-
-
-### Oportunidades
-
-Estou disponível para oportunidades de estágio ou vagas como desenvolvedor júnior ou estágio. Estou pronto para aplicar meus conhecimentos e habilidades em C#, .NET, MySQL e Angular em um ambiente profissional, contribuindo para o sucesso da equipe e o desenvolvimento de projetos inovadores.
+Sou um estudante de Engenharia de Software, com experiência em SQL Server, MySQL e programação em C#, .NET e JavaScript. Tenho conhecimento em tecnologias web, desenvolvendo soluções eficientes e escaláveis. Busco uma oportunidade de estágio em Engenharia de Software para aplicar e aprimorar minhas habilidades em um ambiente profissional.
 
 
 
