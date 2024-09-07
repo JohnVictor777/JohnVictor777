@@ -4,7 +4,7 @@
 🎓 **Education:** Software Engineering student at North University of Paraná(Unopar)  
 📚 **Additional Education:** Administrative Assistant course at SENAC  
 💼 **Age:** 23 years  
-🌐 **CEO e Co-Fundador:** [KaofeTech](https://www.kaofetech.com)
+🌐 **CEO and Co-Founder:** [KaofeTech](https://www.kaofetech.com)
 
 
 
@@ -34,7 +34,7 @@ I am a Software Engineering student with experience in SQL Server, MySQL, and pr
 🎓 **Educação:** Estudante de Engenharia de Software pela Universidade Norte do Paraná(Unopar)  
 📚 **Educação Adicional:** Curso de Auxiliar Administrativo pelo SENAC  
 💼 **Idade:** 23 anos  
-
+🌐 **CEO e Co-Fundador:** [KaofeTech](https://www.kaofetech.com)
 
 
 ### Sobre Mim
