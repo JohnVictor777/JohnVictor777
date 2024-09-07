@@ -4,6 +4,7 @@
 🎓 **Education:** Software Engineering student at North University of Paraná(Unopar)  
 📚 **Additional Education:** Administrative Assistant course at SENAC  
 💼 **Age:** 23 years  
+🌐 **CEO e Co-Fundador:** [KaofeTech](https://www.kaofetech.com)
 
 
 
@@ -16,8 +17,8 @@ I'm passionate about technology and constantly seeking new knowledge to stand ou
 ### Technical Skills
 
 - **Languages:** C#, JavaScript
-- **C# and .NET Frameworks:** ASP.NET Core, Windows Forms, Entity Framework Core
-- **Front-end:** HTML, CSS, Bootstrap, Vue
+- **Frameworks e Biblioteca:** .NET, Bootstrap, Vue
+- **Front-end:** HTML, CSS
 - **Databases:** MySQL, SQL Server
 - **Tools:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modeling:** UML (Unified Modeling Language)
@@ -45,8 +46,8 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos par
 ### Habilidades Técnicas
 
 - **Linguagens:** C#, JavaScript
-- **Frameworks C# e .NET:** ASP.NET Core, Blazor, Windows Forms, WPF, Entity Framework Core, Dapper
-- **Front-end:** HTML, CSS, Bootstrap, Vue
+- **Frameworks e Biblioteca:** .NET, Bootstrap, Vue
+- **Front-end:** HTML, CSS
 - **Bancos de Dados:** MySQL, SQL Server
 - **Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code
 - **Modelagem:** UML (Unified Modeling Language)
