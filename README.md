@@ -67,3 +67,6 @@ _<html **lang=**"en">_
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/johnvictor7)
 
 ---
+<p align="center">
+  <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
+</p>
