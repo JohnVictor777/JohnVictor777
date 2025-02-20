@@ -1,8 +1,3 @@
-<h3 align="center">
-Backend Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="30" height="30" /> Future FullStack Developer
-
-</h3>
-
 <div align="center">
   <img width="45%" height="160%" src="https://github-readme-stats.vercel.app/api?username=JohnVictor777&show_icons=true&count_private=true&title_color=80F7D4&icon_color=008B8B&text_color=fff&bg_color=0d1117&border_color=fff0" /> 
   
