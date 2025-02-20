@@ -26,7 +26,7 @@ _<html **lang=**"en">_
 
 #### My Technical Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
 
-- My main stack includes **.net C#** and **Vue.JS**.<br/>
+- My main stack includes **.net C#** and **Angular**.<br/>
  
 
 #### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25"/>
