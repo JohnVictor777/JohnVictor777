@@ -1,7 +1,4 @@
-<div align="center">
-  <img width="45%" height="160%" src="https://github-readme-stats.vercel.app/api?username=JohnVictor777&show_icons=true&count_private=true&title_color=80F7D4&icon_color=008B8B&text_color=fff&bg_color=0d1117&border_color=fff0" /> 
-  <img width="41%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnVictor777&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-</div>
+
 
 ---
 
