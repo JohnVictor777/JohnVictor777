@@ -55,8 +55,8 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 ### 💻 Stack Principal
 💡 **.NET e C#** - Desenvolvimento backend robusto  
 🌐 **Angular** - Construção de frontends modernos  
-🛠️ **Banco de Dados** - MySQL, SQL Server e PostgreSQL
-🧪 **Boas Práticas** - Testes e versionamento com Git  
+🛠️ **Banco de Dados** - MySQL, SQL Server e PostgreSQL   
+ 🧪 **Boas Práticas** - Testes e versionamento com Git  
 
 ### 🏗️ Arquitetura de Software
 - Clean Architecture
