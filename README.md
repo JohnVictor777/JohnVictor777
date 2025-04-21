@@ -96,6 +96,7 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 | [Calculator](https://github.com/JohnVictor777/Calculator) | Calculadora simples com funcionalidades básicas | C# |
 | [Validador de Cartões](https://github.com/JohnVictor777/Desafio-copilot-dio) | Validador de número de cartões usando Luhn | JavaScript |
 | [Desafio IA Microsoft](https://github.com/JohnVictor777/Desafio-1-Microsoft-Fundamentos-de-IA) | Classificação de textos com Machine Learning no Azure | Azure ML, IA |
+  <b><a href="https://github.com/JohnVictor777?tab=repositories">Ver todos os projetos</a></b>
 
 ---
 
@@ -128,9 +129,6 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 
 ---
 
-
-
-
 🛠️ *Este perfil está em constante evolução... stay tuned!*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,36,121,212,255&section=footer)
