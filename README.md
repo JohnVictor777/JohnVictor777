@@ -132,3 +132,5 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 
 
 🛠️ *Este perfil está em constante evolução... stay tuned!*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
