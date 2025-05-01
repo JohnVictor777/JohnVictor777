@@ -90,13 +90,11 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Jvese_eCommerce_Nike](https://github.com/JohnVictor777/Jvese_eCommerce_Nike) | Loja virtual inspirada na Nike | HTML, CSS, JS |
+| [Projetos DIO](https://github.com/JohnVictor777/dio-projects) | Repositório para reunir todos os projetos realizados durante os bootcamps da Digital Innovation One. |
 | [ProdutoManager](https://github.com/JohnVictor777/ProdutoManager) | Sistema para cadastro e controle de estoque | C#, .NET |
 | [StopWatch](https://github.com/JohnVictor777/StopWatch) | Cronômetro de terminal funcional | C# |
 | [Calculator](https://github.com/JohnVictor777/Calculator) | Calculadora simples com funcionalidades básicas | C# |
-| [Validador de Cartões](https://github.com/JohnVictor777/Desafio-copilot-dio) | Validador de número de cartões usando Luhn | JavaScript |
-| [Desafio IA Microsoft](https://github.com/JohnVictor777/Desafio-1-Microsoft-Fundamentos-de-IA) | Classificação de textos com Machine Learning no Azure | Azure ML, IA |
-  <b><a href="https://github.com/JohnVictor777?tab=repositories">Ver todos os projetos</a></b>
+<b><a href="https://github.com/JohnVictor777?tab=repositories">Ver todos os projetos</a></b>
 
 ---
 
