@@ -91,6 +91,7 @@ Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Projetos DIO](https://github.com/JohnVictor777/dio-projects) | Repositório para reunir todos os projetos realizados durante os bootcamps da Digital Innovation One. |
+| [classificador-de-texto-com-IA](https://github.com/JohnVictor777/classificador-de-texto-com-IA) | Classificador de Texto com IA | C#, .NET, Angular, ML.NET |
 | [ProdutoManager](https://github.com/JohnVictor777/ProdutoManager) | Sistema para cadastro e controle de estoque | C#, .NET |
 | [StopWatch](https://github.com/JohnVictor777/StopWatch) | Cronômetro de terminal funcional | C# |
 | [Calculator](https://github.com/JohnVictor777/Calculator) | Calculadora simples com funcionalidades básicas | C# |
