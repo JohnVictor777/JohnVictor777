@@ -36,39 +36,34 @@ public class JohnVictor : SoftwareEngineer
 {
     public string Location = "Valença, Bahia, Brasil";
     public string Education = "Engenharia de Software";
-    public string Focus = ".NET C# | Angular | IA/ML";
-    public string Venture = "Co-fundador da KaofeTech";
+    public string Focus = ".NET C# | Angular | WordPress | ML.NET";
+    public string Venture = "Cofundador da Kaofe Tech";
     
     public string MissionStatement = 
-        "Criar soluções tecnológicas que impactem positivamente a sociedade";
+        "Desenvolver soluções Web e APIs escaláveis que impactem positivamente empresas e usuários, aplicando boas práticas e tecnologias modernas.";
 }
 
 ```
 
 ## 🎯 Objetivo Atual
-Me tornar um desenvolvedor altamente capacitado em .NET, C# e Angular, aplicando boas práticas e criando soluções reais que fazem a diferença.
+Busco estágio em Desenvolvimento Web/Back-End, aplicando .NET, C# e Angular em projetos reais, criando soluções escaláveis, robustas e de alto desempenho.
 
 ---
 
 ## 🧠 Foco de Estudos
 
 ### 💻 Stack Principal
-💡 **.NET e C#** - Desenvolvimento backend robusto  
-🌐 **Angular** - Construção de frontends modernos  
-🛠️ **Banco de Dados** - MySQL, SQL Server e PostgreSQL   
- 🧪 **Boas Práticas** - Testes e versionamento com Git  
+💡 **Backend: .NET e C#** - Desenvolvimento de APIs e sistemas robustos 
+🌐 **Frontend e CMS: Angular e WordPress** - Criação de sites, blogs e aplicações web escaláveis  
+🛠️ **Banco de Dados:** - MySQL e SQL Server   
+🧪 **BBoas Práticas:** - Testes unitários, Git e versionamento
+🤖 **ML.NET:** Modelos de IA, classificação de textos e análise de dados
 
 ### 🏗️ Arquitetura de Software
-- Clean Architecture
+- Arquitetura Limpa (Clean Architecture)
 - Microsserviços
-- Padrões de Design
+- Padrões de Design (Design Patterns)
 - DDD (Domain-Driven Design)
-
-### 🤖 Machine Learning com .NET
-- **ML.NET** para modelos de IA
-- Análise de dados com C#
-- Classificação de textos
-- Modelos preditivos
 - Integração com APIs .NET
 
 ---
