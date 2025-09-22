@@ -53,11 +53,11 @@ Busco estágio em Desenvolvimento Web/Back-End, aplicando .NET, C# e Angular em 
 ## 🧠 Foco de Estudos
 
 ### 💻 Stack Principal
-💡 **Backend: .NET e C#** - Desenvolvimento de APIs e sistemas robustos 
-🌐 **Frontend e CMS: Angular e WordPress** - Criação de sites, blogs e aplicações web escaláveis  
-🛠️ **Banco de Dados:** - MySQL e SQL Server   
-🧪 **BBoas Práticas:** - Testes unitários, Git e versionamento
-🤖 **ML.NET:** Modelos de IA, classificação de textos e análise de dados
+- **Backend: .NET e C#** - Desenvolvimento de APIs e sistemas robustos
+- **Frontend e CMS: Angular e WordPress** - Criação de sites, blogs e aplicações web escaláveis  
+- **Banco de Dados:** MySQL e SQL Server   
+- **Boas Práticas:** Testes unitários, Git e versionamento
+- **ML.NET:** Modelos de IA, classificação de textos e análise de dados
 
 ### 🏗️ Arquitetura de Software
 - Arquitetura Limpa (Clean Architecture)
@@ -72,6 +72,7 @@ Busco estágio em Desenvolvimento Web/Back-End, aplicando .NET, C# e Angular em 
 
 <div align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
