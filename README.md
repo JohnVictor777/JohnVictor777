@@ -1,10 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,36,121,212,255&section=header)
 
-<h2 align="center" style="color:#00d4ff;">Console.WriteLine($"John Victor E. Santo");</h2>
+<h2 align="center" style="color:#00d4ff;">
+    Console.WriteLine("John Victor E. Santo");
+</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D4FF&background=02002400&center=true&width=435&lines=Software+Engineering+Student;Back-End+.NET+Developer;AI+Solutions+Enthusiast;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D4FF&background=02002400&center=true&width=500&lines=Software+Engineering+Student;Web+Developer+C%23+.NET;Angular+Frontend+Developer;AI+Solutions+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
