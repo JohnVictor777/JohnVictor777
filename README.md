@@ -86,6 +86,7 @@ https://github.com/JohnVictor777?tab=repositories
 
 - 💼 LinkedIn: https://www.linkedin.com/in/johnvic7or/
 - 📧 Email: victorjohn609@gmail.com
+- 🔗 Site: https://www.kaofetech.com.br
 - 🔗 Site: https://www.kaofetech.com
 
 ---
