@@ -1,94 +1,75 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,36,121,212,255&section=header)
+# John Victor do Espírito Santo
 
-<h1 align="center">John Victor E. Santo</h1>
-<h3 align="center">Software Engineering Student | .NET & Angular Developer</h3>
-
----
-
-## 🎯 Objetivo
-
-Estudante de Engenharia de Software focado no desenvolvimento de aplicações web com **C#/.NET** e **Angular**, buscando oportunidade de **estágio em Back-End** para aplicar boas práticas de engenharia e construção de APIs escaláveis.
-
-📍 Valença, BA — Brasil  
-🏢 Cofundador da Kaofe Tech  
-🚀 Embaixador DIO
+Desenvolvedor Back-End C#/.NET | ASP.NET Core | SQL Server | APIs REST
 
 ---
 
-## 🏆 Projeto em Destaque
+## 🚀 Sobre
 
-### 🔹 Classificador de Texto com IA
+Desenvolvedor Back-End focado na construção de APIs REST com ASP.NET Core e integração com bancos de dados relacionais.
 
-Sistema web que utiliza **ML.NET** para classificação automática de textos, com backend em **ASP.NET Core** e frontend em **Angular**.
-
-**Principais pontos técnicos:**
-
-- API REST em .NET
-- Modelo de IA com ML.NET
-- Integração Angular + API
+Experiência prática em:
+- Entity Framework Core
 - Arquitetura em camadas
-- Persistência em banco de dados
+- Injeção de Dependência
+- Princípios SOLID
+- Versionamento com Git
 
-🔗 Repositório:  
+Atualmente cursando Engenharia de Software e aprofundando conhecimentos em arquitetura de aplicações e boas práticas de engenharia.
+
+📍 Valença – BA  
+🏢 Cofundador da Kaofe Tech  
+
+---
+
+## 🔥 Projeto Principal
+
+### Classificador de Texto com IA
+
+Sistema fullstack com backend em ASP.NET Core, modelo treinado com ML.NET e frontend em Angular.
+
+Principais aspectos técnicos:
+- API REST estruturada
+- Treinamento supervisionado com ML.NET
+- Arquitetura em camadas
+- Persistência com banco relacional
+- Integração frontend + backend
+
+🔗 Repositório:
 https://github.com/JohnVictor777/classificador-de-texto-com-IA
 
-> ⚠️ Em evolução para incluir autenticação, testes e deploy.
-
 ---
 
-## 🧠 Stack Técnica
+## 🧠 Stack Principal
 
 **Backend**
-
-- .NET / C#
-- ASP.NET Core Web API
+- C#
+- .NET / ASP.NET Core
 - Entity Framework Core
 - SQL Server / MySQL
 - ML.NET
 
 **Frontend**
-
 - Angular
-- JavaScript
-- HTML / CSS
-- Bootstrap
-
-**Boas práticas**
-
-- Clean Architecture (estudos)
-- DDD (estudos)
-- Testes unitários
-- Git & GitHub
+- HTML / CSS / JavaScript
 
 ---
 
 ## 📂 Projetos Relevantes
 
-- 🔹 controle-de-vendas-cs-mysql  
-- 🔹 Gerente de Produto  
-- 🔹 DIRETRIZ (padrões e boas práticas)  
+🔹 ProdutoManager – Sistema desktop em C# com integração a banco de dados  
+🔹 Controle de Vendas – Aplicação Windows Forms com MySQL  
+🔹 C# Development Guideline – Guia estruturado de boas práticas  
 
-🔎 Todos os repositórios:  
+Repositórios:
 https://github.com/JohnVictor777?tab=repositories
 
 ---
 
-## 📊 Estatísticas
+## 📫 Contato
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JohnVictor777&show_icons=true&theme=dark" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVictor777&layout=compact&theme=dark" />
-</div>
+LinkedIn:
+https://www.linkedin.com/in/johnvic7or/
 
----
-
-## 🌐 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/johnvic7or/
-- 📧 Email: victorjohn609@gmail.com
-- 🔗 Site: https://www.kaofetech.com.br
-- 🔗 Site: https://www.kaofetech.com
-
----
-
-⚙️ Em evolução contínua como desenvolvedor .NET.
+Email:
+contatojohnvictorestagio@gmail.com
